@@ -2,6 +2,12 @@
 
 Reat 학습 시작을 위한 사용자 정의 템플릿
 
+```sh
+degit yamoo9/likelion-vite-react <폴더_이름>
+cd <폴더_이름>
+pnpm install
+```
+
 ## 실행 명령어
 
 개발 서버 구동
